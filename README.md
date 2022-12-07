@@ -15,7 +15,7 @@ Simple sentiment analysis on tweets of a hastag using twitter API.
 9) Jupyter Notebook
 ## Note
 Create a csv file for API keys in following format as keys.csv and paste it inside the folder.
-![alt text](twitter-sentiment-analysis/ss.png)
+![alt text](twitter-sentiment-analysis/ss.png?raw=true)
 # Hi, I'm Zeeshan! 👋
 
 
